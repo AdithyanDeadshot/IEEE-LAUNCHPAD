@@ -7,12 +7,11 @@
 
 ## Portfolio Highlights
 
-### My Projects
 
-| Name                | Description                                                            
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Youtube Transcript summarizer  | It is a web application which accepts URL of videos, extracts its transcript and summarises its content.                                           |
-| Hire Mate  | it is a web application which provides a platform for screening and selecting candidate by processing their resumes, conducting aptitude test under proctoring and finaly evaluation of the result for ranking of candidates      |
+| **Youtube Transcript Summarizer**  | It is a web application which accepts URL of videos, extracts its transcript and summarises its content.                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Hire Mate**  | it is a web application which provides a platform for screening and selecting candidate by processing their resumes, conducting aptitude test under proctoring and finaly evaluation of the result for ranking of candidates.                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
